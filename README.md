@@ -21,7 +21,7 @@ Ensure you have [Spicetify CLI](https://github.com/spicetify/spicetify-cli) inst
 
 1. **Clone this repository or download the source files as a ZIP.**
    ```bash
-   git clone https://github.com/IsItKz/Purplify.git
+   git clone https://github.com/IsItKz/purplify-theme.git
 2. **Move the theme folder to your Spicetify Themes directory.**
 
    ***Linux / Mac***:
@@ -30,11 +30,11 @@ Ensure you have [Spicetify CLI](https://github.com/spicetify/spicetify-cli) inst
 
    ***Windows (PowerShell)***:
   
-       Copy-Item -Recurse Purplify "$env:APPDATA\spicetify\Themes\"
+       Copy-Item -Recurse purplify-theme "$env:APPDATA\spicetify\Themes\"
 
 3. **Run the following commands in your terminal to apply the theme:**
    ```bash
-    spicetify config current_theme Purplify
+    spicetify config current_theme purplify-theme
     spicetify apply
 
 ## 🤝 Contributing
