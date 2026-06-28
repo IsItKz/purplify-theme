@@ -15,38 +15,50 @@ A custom [Spicetify](https://github.com/spicetify/spicetify-cli) theme designed 
 ## 🚀 Installation
 
 ### Prerequisites
+
 Ensure you have [Spicetify CLI](https://github.com/spicetify/spicetify-cli) installed and configured on your system.
 
 ### Steps
 
 1. **Clone this repository or download the source files as a ZIP.**
+
    ```bash
    git clone https://github.com/IsItKz/purplify-theme.git
+   ```
+
 2. **Move the theme folder to your Spicetify Themes directory.**
 
-   ***Linux / Mac***:
-   
-       cp -r purplify-theme ~/.config/spicetify/Themes/
+   **_Linux / Mac_**:
 
-   ***Windows (PowerShell)***:
-  
-       Copy-Item -Recurse purplify-theme "$env:APPDATA\spicetify\Themes\"
+   ```bash
+   cp -r purplify-theme ~/.config/spicetify/Themes/
+   ```
+
+   **_Windows (PowerShell)_**:
+
+   ```powershell
+   Copy-Item -Recurse purplify-theme "$env:APPDATA\spicetify\Themes\"
+   ```
 
 3. **Run the following commands in your terminal to apply the theme:**
+
    ```bash
-    spicetify config current_theme purplify-theme
-    spicetify apply
+   spicetify config current_theme purplify-theme
+   spicetify apply
+   ```
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are very welcome!
 
 ### Where to Contribute
-- 🐛 **Found a bug?** [Open an Issue](../../issues/new)
-- 💡 **Have a feature idea?** [Request a Feature](../../issues/new)
-- 🛠 **Want to fix something?** [Submit a Pull Request](../../pulls)
+
+- 🐛 **Found a bug?** [Open an Issue](https://github.com/IsItKz/purplify-theme/issues/new)
+- 💡 **Have a feature idea?** [Request a Feature](https://github.com/IsItKz/purplify-theme/issues/new)
+- 🛠 **Want to fix something?** [Submit a Pull Request](https://github.com/IsItKz/purplify-theme/pulls)
 
 ## 📄 License
+
 This project is open source and available under the MIT License.
 
-***Made with 💜 by IsItKz***
+**_Made with 💜 by IsItKz_**

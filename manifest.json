@@ -1,0 +1,15 @@
+{
+  "name": "Purplify Theme",
+  "description": "The cool-looking purple theme for Spotify.",
+  "preview": "./assets/screenshot.png",
+  "readme": "README.md",
+  "usercss": "./user.css",
+  "schemes": "./color.ini",
+  "authors": [
+    {
+      "name": "IsItKz",
+      "url": "https://github.com/IsItKz"
+    }
+  ],
+  "tags": ["dark", "purple", "minimal"]
+}

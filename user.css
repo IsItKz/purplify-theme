@@ -1,0 +1,58 @@
+.encore-dark-theme .encore-bright-accent-set,
+.encore-dark-theme .encore-positive-set {
+  --background-highlight: var(--spice-highlight) !important;
+  --background-press: var(--spice-highlight) !important;
+  --background-elevated-base: var(--spice-main-elevated) !important;
+  --background-elevated-highlight: var(--spice-highlight-elevated) !important;
+  --background-elevated-press: var(--spice-highlight-elevated) !important;
+  --encore-icon-fill: #fff !important;
+}
+
+.x-searchInput-searchInputInput::placeholder {
+  color: #fff !important;
+}
+
+.x-searchInput-searchInputInput:hover {
+  background: var(--spice-main-elevated) !important;
+}
+
+.main-home-homeHeader,
+.main-home-filterChipsSection.fzMaM8folMIckYG2::after {
+  background: none !important;
+  background-image:
+    linear-gradient(
+      rgba(var(--spice-rgb-shadow), 0.6) 0,
+      var(--spice-main) 100%
+    ),
+    var(--background-noise) !important;
+}
+
+.main-entityHeader-backgroundColor,
+.main-entityHeader-overlay,
+.main-topBar-overlay,
+.desktopmodals-aboutSpotifyModal-container,
+.lyrics-lyricsContainer-LyricsBackground {
+  background-image:
+    linear-gradient(
+      rgba(var(--spice-rgb-shadow), 0.6) 0,
+      var(--spice-main) 100%
+    ),
+    var(--background-noise) !important;
+}
+
+.tippy-box {
+  background: var(--spice-highlight) !important;
+}
+
+.tippy-arrow {
+  color: var(--spice-highlight) !important;
+}
+
+.main-actionBarBackground-background {
+  background-image: none !important;
+  background: none !important;
+}
+
+.desktopmodals-aboutSpotifyModal-licensing {
+  background: none !important;
+}
