@@ -26,7 +26,7 @@ Ensure you have [Spicetify CLI](https://github.com/spicetify/spicetify-cli) inst
 
    ***Linux / Mac***:
    
-       cp -r Purplify ~/.config/spicetify/Themes/
+       cp -r purplify-theme ~/.config/spicetify/Themes/
 
    ***Windows (PowerShell)***:
   
