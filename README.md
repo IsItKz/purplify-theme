@@ -1,2 +1,2 @@
-# purplify-theme
-A cool looking purple theme
+# Purplify Theme
+The cool looking purple theme
