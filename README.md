@@ -18,7 +18,23 @@ A custom [Spicetify](https://github.com/spicetify/spicetify-cli) theme designed 
 
 Ensure you have [Spicetify CLI](https://github.com/spicetify/spicetify-cli) installed and configured on your system.
 
-### Steps
+### Spicetify Marketplace
+
+### Steps:
+
+1. Open Spicetify Marketplace by clicking its icon in the Spotify sidebar.
+
+2. Navigate to the Themes tab and search for "Purplify Theme".
+
+3. Click the Install button.
+
+4. Apply the changes (if prompted) or restart Spotify.
+
+5. That's it! Enjoy your new theme!
+
+### Manual Installation
+
+### Steps:
 
 1. **Clone this repository or download the source files as a ZIP.**
 
@@ -66,5 +82,7 @@ Contributions, issues, and feature requests are very welcome!
 ## 📄 License
 
 This project is open source and available under the MIT License.
+
+## If you like the theme consider giving it a star🌟
 
 **_Made with 💜 by IsItKz_**
