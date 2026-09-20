@@ -75,8 +75,8 @@ Contributions, issues, and feature requests are very welcome!
 
 ### Where to Contribute
 
-- 🐛 **Found a bug?** [Open an Issue](https://github.com/IsItKz/purplify-theme/issues/new)
-- 💡 **Have a feature idea?** [Request a Feature](https://github.com/IsItKz/purplify-theme/issues/new)
+- 🐛 **Found a bug?** [Open an Issue](https://github.com/IsItKz/purplify-theme/issues/new?template=bug_report.yml)
+- 💡 **Have a feature idea?** [Request a Feature](https://github.com/IsItKz/purplify-theme/issues/new?template=feature_request.yml)
 - 🛠 **Want to fix something?** [Submit a Pull Request](https://github.com/IsItKz/purplify-theme/pulls)
 
 ## 📄 License
