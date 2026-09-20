@@ -87,7 +87,7 @@ This project is open source and available under the MIT License.
 
 ---
 
-⭐ **If you like the app, consider giving it a star!** ⭐
+⭐ **If you like the theme, consider giving it a star!** ⭐
 
 <br />
 
